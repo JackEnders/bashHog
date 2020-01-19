@@ -1,4 +1,4 @@
-name: CI
+name: RegEx Returning Results
 on: push
 jobs:
   build:
