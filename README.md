@@ -66,4 +66,4 @@ For people that find themselves in a situation where they want to find secrets t
 `SK[a-z0-9]{32}`
 
 ## Pull Requests?
-Please! If you hadd a new query to rules.txt, please add a corresponding entry to readme.md and test_rules.txt describing what you're trying to detect
+Please! If you add a new query to rules.txt, please add a corresponding entry to readme.md and test_rules.txt describing what you're trying to detect.
