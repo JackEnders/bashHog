@@ -1,0 +1,14 @@
+name: CI
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    
+    - name: Run script against sample targets, write to results.txt
+      run: ./bashHog.sh ./testfiles results.txt
+    
+    - name: Check if results are as expected
+      run: |
+        cat ./results.txt
