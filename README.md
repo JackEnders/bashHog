@@ -1,4 +1,6 @@
 # bashHog
+![Actions Status 1](https://github.com/jackenders/bashhog/workflows/RegEx%20Returning%20Results/badge.svg)
+
 Use regular expressions based on [trufflehog](https://github.com/dxa4481/truffleHog) and OWASP's very underated [SEDATED](https://github.com/OWASP/SEDATED) project to identify secrets in an arbitrary directory, recursively.
 
 Shout out to the SEDATED project for their great Regex testing file, which made life so much easier.
