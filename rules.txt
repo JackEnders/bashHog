@@ -1,0 +1,18 @@
+\-\-\-\-\-BEGIN RSA PRIVATE KEY\-\-\-\-\-
+\-\-\-\-\-BEGIN OPENSSH PRIVATE KEY\-\-\-\-\-
+\-\-\-\-\-BEGIN DSA PRIVATE KEY\-\-\-\-\-
+\-\-\-\-\-BEGIN EC PRIVATE KEY\-\-\-\-\-
+\-\-\-\-\-BEGIN PGP PRIVATE KEY BLOCK\-\-\-\-\-
+[f|F][a|A][c|C][e|E][b|B][o|O][o|O][k|K].{0,30}['\"\\s][0-9a-f]{32,45}['\"\\s]
+[t|T][w|W][i|I][t|T][t|T][e|E][r|R].{0,30}['\"\\s][0-9a-zA-Z]{35,44}['\"\\s]
+[g|G][i|I][t|T][h|H][u|U][b|B].{0,30}['\"\\s][0-9a-zA-Z]{35,40}['\"\\s]
+[h|H][e|E][r|R][o|O][k|K][u|U].{0,30}[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12}
+(\"client_secret\":\"[a-zA-Z0-9_-]{0,24}\")
+AKIA[0-9A-Z]{16}
+[a-zA-Z]{3,10}://[^/\\s:@]{3,20}:[^/\\s:@]{3,20}@.{1,100}[\"'\\s]
+[s|S][e|E][c|C][r|R][e|E][t|T].{0,45}
+[a|A][p|P][i|I][_]?[-]?[k|K][e|E][y|Y].{0,45}
+[p|P][a|A][s|S][s|S][w|W][o|O][r|R][d|D].{0,45}
+[s|S][e|E][n|N][s|S][i|I][t|T][i|I][v|V][e|E].{0,45}
+https://hooks.slack.com/services/T[a-zA-Z0-9_]{8}/B[a-zA-Z0-9_]{8}/[a-zA-Z0-9_]{24}
+SK[a-z0-9]{32}
