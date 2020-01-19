@@ -1,0 +1,36 @@
+[1;33m[!]Results from \-\-\-\-\-BEGIN RSA PRIVATE KEY\-\-\-\-\- in ./testfiles[0m
+./testfiles/test_rules.txt:1:-----BEGIN RSA PRIVATE KEY-----
+[1;33m[!]Results from \-\-\-\-\-BEGIN OPENSSH PRIVATE KEY\-\-\-\-\- in ./testfiles[0m
+./testfiles/test_rules.txt:2:-----BEGIN OPENSSH PRIVATE KEY-----
+[1;33m[!]Results from \-\-\-\-\-BEGIN DSA PRIVATE KEY\-\-\-\-\- in ./testfiles[0m
+./testfiles/test_rules.txt:3:-----BEGIN DSA PRIVATE KEY-----
+[1;33m[!]Results from \-\-\-\-\-BEGIN EC PRIVATE KEY\-\-\-\-\- in ./testfiles[0m
+./testfiles/test_rules.txt:4:-----BEGIN EC PRIVATE KEY-----
+[1;33m[!]Results from \-\-\-\-\-BEGIN PGP PRIVATE KEY BLOCK\-\-\-\-\- in ./testfiles[0m
+./testfiles/test_rules.txt:5:-----BEGIN PGP PRIVATE KEY BLOCK-----
+[1;33m[!]Results from [f|F][a|A][c|C][e|E][b|B][o|O][o|O][k|K].{0,30}['\"\s][0-9a-f]{32,45}['\"\s] in ./testfiles[0m
+./testfiles/test_rules.txt:6:FACEBOOK_TOKEN: "1234567890abcdefabcd1234567890abcde"
+[1;33m[!]Results from [t|T][w|W][i|I][t|T][t|T][e|E][r|R].{0,30}['\"\s][0-9a-zA-Z]{35,44}['\"\s] in ./testfiles[0m
+./testfiles/test_rules.txt:7:TWITTER_TOKEN: "1234567890abcdefghij1234567890abcde"
+[1;33m[!]Results from [g|G][i|I][t|T][h|H][u|U][b|B].{0,30}['\"\s][0-9a-zA-Z]{35,40}['\"\s] in ./testfiles[0m
+./testfiles/test_rules.txt:8:GITHUB_TOKEN: "a123456750204904539bcb8bd004dac09eb23077"
+[1;33m[!]Results from [h|H][e|E][r|R][o|O][k|K][u|U].{0,30}[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12} in ./testfiles[0m
+./testfiles/test_rules.txt:9:HEROKU_TOKEN: "01234567-89ab-cdef-0123-456789abcdef"
+[1;33m[!]Results from (\"client_secret\":\"[a-zA-Z0-9_-]{0,24}\") in ./testfiles[0m
+./testfiles/test_rules.txt:10:"client_secret":"sd0Lhjhjk-kPnhyt_fred7wq"
+[1;33m[!]Results from AKIA[0-9A-Z]{16} in ./testfiles[0m
+./testfiles/test_rules.txt:11:aws_credential=AKIAI44QH8DHBEXAMPLE/this.com
+[1;33m[!]Results from [a-zA-Z]{3,10}://[^/\s:@]{3,20}:[^/\s:@]{3,20}@.{1,100}[\"'\s] in ./testfiles[0m
+./testfiles/test_rules.txt:12:mongodb://EVILUSER:A1bcdEf@Abc12345.mysite.com:27010,Abc12345.mysite.com:27010/LUSER?set=PROD'
+[1;33m[!]Results from [s|S][e|E][c|C][r|R][e|E][t|T].{0,45} in ./testfiles[0m
+./testfiles/test_rules.txt:10:"client_secret":"sd0Lhjhjk-kPnhyt_fred7wq"
+[1;33m[!]Results from [a|A][p|P][i|I][_]?[-]?[k|K][e|E][y|Y].{0,45} in ./testfiles[0m
+./testfiles/test_rules.txt:13:set -e | curl -i -H 'X-Api-Key: 12345abcdefghijklmno' -T BackEnd/build/libs/example_api-0.1.0.jar
+[1;33m[!]Results from [p|P][a|A][s|S][s|S][w|W][o|O][r|R][d|D].{0,45} in ./testfiles[0m
+./testfiles/test_rules.txt:14:_password = ABCD1eFGhiJ1aLeyZ5P1VzqDCf
+[1;33m[!]Results from [s|S][e|E][n|N][s|S][i|I][t|T][i|I][v|V][e|E].{0,45} in ./testfiles[0m
+./testfiles/test_rules.txt:15:sensitive_key     = thisismy123sensitivekey
+[1;33m[!]Results from https://hooks.slack.com/services/T[a-zA-Z0-9_]{8}/B[a-zA-Z0-9_]{8}/[a-zA-Z0-9_]{24} in ./testfiles[0m
+./testfiles/test_rules.txt:16:https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX
+[1;33m[!]Results from SK[a-z0-9]{32} in ./testfiles[0m
+./testfiles/test_rules.txt:17:SKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

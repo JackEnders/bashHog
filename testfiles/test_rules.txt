@@ -1,59 +1,17 @@
-### RSA private key
 -----BEGIN RSA PRIVATE KEY-----
-
-### SSH (OPENSSH) private key
 -----BEGIN OPENSSH PRIVATE KEY-----
-
-### SSH (DSA) private key
 -----BEGIN DSA PRIVATE KEY-----
-
-### SSH (EC) private key
 -----BEGIN EC PRIVATE KEY-----
-
-### PGP private key block
 -----BEGIN PGP PRIVATE KEY BLOCK-----
-
-### Facebook Oauth
 FACEBOOK_TOKEN: "1234567890abcdefabcd1234567890abcde"
-
-### Twitter Oauth
 TWITTER_TOKEN: "1234567890abcdefghij1234567890abcde"
-
-### Github Oauth
 GITHUB_TOKEN: "a123456750204904539bcb8bd004dac09eb23077"
-
-### Heroku Oauth
 HEROKU_TOKEN: "01234567-89ab-cdef-0123-456789abcdef"
-
-### Google Oauth
 "client_secret":"sd0Lhjhjk-kPnhyt_fred7wq"
-
-### AWS API Key
 aws_credential=AKIAI44QH8DHBEXAMPLE/this.com
-
-### Connection String
 mongodb://EVILUSER:A1bcdEf@Abc12345.mysite.com:27010,Abc12345.mysite.com:27010/LUSER?set=PROD'
-ssh://EVILUSER:A1bcdEf@Abc12345.mysite.com:22
-
-### "Secret"
-Client Secret == 'VIviyomam13lC-1335532dd23g'
-MY_CLIENT_SECRET = "12lkvjkkd-jfu34jsdsjeie56jfd-mcjsd7j8";
-
-### "API Key"
 set -e | curl -i -H 'X-Api-Key: 12345abcdefghijklmno' -T BackEnd/build/libs/example_api-0.1.0.jar
-five = 5; String API_KEY = 'this-Is-My-cl1en7-5ecret';  APP_USER = 'johnDoe';
-APIKey=thisismysecret123apikey
-
-### "Password"
-PASSWORD    - thisIsMyP@$$w0rd1-Ha-Ha!
 _password = ABCD1eFGhiJ1aLeyZ5P1VzqDCf
-
-### "Sensitive"
-SENSITIVE_KEY: "this-Is-My-cl1en7-SENSITIVE-Key";
-sensitive_key     = thisismysecret123sensitivekey
-
-### Slack Webhook
+sensitive_key     = thisismy123sensitivekey
 https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX
-
-### Twilio API Key
 SKxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
